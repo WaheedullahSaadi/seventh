@@ -1,0 +1,11 @@
+.a:hover{color: darkred;font-size: 60px;background-image: url(news/download\ \(6\).jpg);border: 2px dashed chocolate;
+margin-left: 180px;margin-right: 180px;text-align: center;}
+h1{color:black;background-color:crimson ;font-size: 60px;border-left:3px dashed hsl(16, 100%, 66%);border-right: 3px dashed coral;margin-left: 180px;margin-right:180px;text-align: center;}
+h3{color:white;border-left: 2PX dashed crimson;border-right: 2PX dashed crimson;margin-left: 500px;margin-right: 500px;background-color:black;text-align: center;}
+*{color: blue;font-size: 30px;text-align: center;background-color: rgb(228, 232, 235);}
+body{background-image: url(news/world\ news.jpg);background-position: center;background-size: cover;}
+.h3:hover{color: rgb(71, 41, 4);background-color: bisque;text-align: center;}
+.pak{color: antiquewhite;background-color: black;}
+body{background-image: url(news/world\ news.jpg);display: flex;justify-content: center;align-items: center;flex-direction: column;}
+
+
